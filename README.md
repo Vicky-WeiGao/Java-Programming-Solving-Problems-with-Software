@@ -12,3 +12,5 @@ Learn to code in Java and improve your programming and problem-solving skills. Y
 6. Develop a set of test cases as part of developing a program;
 7. Create a class with multiple methods that work together to solve a problem; and
 8. Use divide-and-conquer design techniques for a program that uses multiple methods.
+## Important Notes
+Some code could be run in a custom Bluej Development Environment made by Duke's University especially for this course. You can get the IDE from the University website [here](http://www.dukelearntoprogram.com/downloads/bluej.php?course=2)
